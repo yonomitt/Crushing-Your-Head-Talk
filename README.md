@@ -1,6 +1,6 @@
 # Computer Vision Not Just For Breakfast Anymore 
 
-These are the slides for my talk _Computer Vision, Not Just For Breakfast Anymore_. I gave the talk multiple times and changes some content between the talks.
+These are the slides for my talk _Computer Vision, Not Just For Breakfast Anymore_. I gave the talk multiple times and changed some content between the talks.
 
 As the videos are posted online, I'll add the link(s) here.
 
